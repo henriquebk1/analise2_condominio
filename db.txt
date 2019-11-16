@@ -1,0 +1,1 @@
+[{"nome":"Condo","cidade":"Feliz","bairro":"Centro","numero":123,"edificios":[{"numeroEdificio":1,"cor":"Azul","quantidadeAndares":9,"apartamentos":[{"geladeiraEmbutida":false,"fogaoEmbutido":false,"numeroApto":12,"andar":4,"rendaMedia":12000.0,"moradores":[{"nome":"JJJ","cpf":"1223","rg":"123","sexo":"M","idade":12}]}]}]}]
