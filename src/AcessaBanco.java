@@ -34,7 +34,7 @@ public class AcessaBanco {
         public Apartamento deserialize(JsonElement je, Type type, JsonDeserializationContext jdc) throws JsonParseException {
             JsonObject jsonObject = je.getAsJsonObject();
             JsonElement tipoLuminaria = jsonObject.get("tipoLuminaria");
-            if(tipoLuminaria == null){
+            if(tipoLuminaria != null){
                 return jdc.deserialize(jsonObject, 
                         ApartamentoLuxo.class);
             }else{
