@@ -17,6 +17,169 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+    	try {
+     	   
+     	  System.out.print(
+     			  "                                                                                                                           \r\n" + 
+     			  "                                                                                                                            \r\n" + 
+     			  "        GGGGGGGGGGGGGEEEEEEEEEEEEEEEEEEEEEE   SSSSSSSSSSSSSSS TTTTTTTTTTTTTTTTTTTTTTT     OOOOOOOOO     RRRRRRRRRRRRRRRRR   \r\n" + 
+     			  "     GGG::::::::::::GE::::::::::::::::::::E SS:::::::::::::::ST:::::::::::::::::::::T   OO:::::::::OO   R::::::::::::::::R  \r\n" + 
+     			  "   GG:::::::::::::::GE::::::::::::::::::::ES:::::SSSSSS::::::ST:::::::::::::::::::::T OO:::::::::::::OO R::::::RRRRRR:::::R \r\n" + 
+     			  "  G:::::GGGGGGGG::::GEE::::::EEEEEEEEE::::ES:::::S     SSSSSSST:::::TT:::::::TT:::::TO:::::::OOO:::::::ORR:::::R     R:::::R\r\n" + 
+     			  " G:::::G       GGGGGG  E:::::E       EEEEEES:::::S            TTTTTT  T:::::T  TTTTTTO::::::O   O::::::O  R::::R     R:::::R\r\n" + 
+     			  "G:::::G                E:::::E             S:::::S                    T:::::T        O:::::O     O:::::O  R::::R     R:::::R\r\n" + 
+     			  "G:::::G                E::::::EEEEEEEEEE    S::::SSSS                 T:::::T        O:::::O     O:::::O  R::::RRRRRR:::::R \r\n" + 
+     			  "G:::::G    GGGGGGGGGG  E:::::::::::::::E     SS::::::SSSSS            T:::::T        O:::::O     O:::::O  R:::::::::::::RR  \r\n" + 
+     			  "G:::::G    G::::::::G  E:::::::::::::::E       SSS::::::::SS          T:::::T        O:::::O     O:::::O  R::::RRRRRR:::::R \r\n" + 
+     			  "G:::::G    GGGGG::::G  E::::::EEEEEEEEEE          SSSSSS::::S         T:::::T        O:::::O     O:::::O  R::::R     R:::::R\r\n" + 
+     			  "G:::::G        G::::G  E:::::E                         S:::::S        T:::::T        O:::::O     O:::::O  R::::R     R:::::R\r\n" + 
+     			  " G:::::G       G::::G  E:::::E       EEEEEE            S:::::S        T:::::T        O::::::O   O::::::O  R::::R     R:::::R\r\n" + 
+     			  "  G:::::GGGGGGGG::::GEE::::::EEEEEEEE:::::ESSSSSSS     S:::::S      TT:::::::TT      O:::::::OOO:::::::ORR:::::R     R:::::R\r\n" + 
+     			  "   GG:::::::::::::::GE::::::::::::::::::::ES::::::SSSSSS:::::S      T:::::::::T       OO:::::::::::::OO R::::::R     R:::::R\r\n" + 
+     			  "     GGG::::::GGG:::GE::::::::::::::::::::ES:::::::::::::::SS       T:::::::::T         OO:::::::::OO   R::::::R     R:::::R\r\n" + 
+     			  "        GGGGGG   GGGGEEEEEEEEEEEEEEEEEEEEEE SSSSSSSSSSSSSSS         TTTTTTTTTTT           OOOOOOOOO     RRRRRRRR     RRRRRRR\r\n" + 
+     			  "                                                                                                                            \r\n" + 
+     			  "                                                                                                                            \r\n" + 
+     			  "                                                                                                                            \r\n" + 
+     			  "                                                                                                                            ");
+     	 Thread.sleep(1000);
+     	 System.out.print(
+     			 "                                         \r\n" + 
+     			 "                                         \r\n" + 
+     			 "DDDDDDDDDDDDD      EEEEEEEEEEEEEEEEEEEEEE\r\n" + 
+     			 "D::::::::::::DDD   E::::::::::::::::::::E\r\n" + 
+     			 "D:::::::::::::::DD E::::::::::::::::::::E\r\n" + 
+     			 "DDD:::::DDDDD:::::DEE::::::EEEEEEEEE::::E\r\n" + 
+     			 "  D:::::D    D:::::D E:::::E       EEEEEE\r\n" + 
+     			 "  D:::::D     D:::::DE:::::E             \r\n" + 
+     			 "  D:::::D     D:::::DE::::::EEEEEEEEEE   \r\n" + 
+     			 "  D:::::D     D:::::DE:::::::::::::::E   \r\n" + 
+     			 "  D:::::D     D:::::DE:::::::::::::::E   \r\n" + 
+     			 "  D:::::D     D:::::DE::::::EEEEEEEEEE   \r\n" + 
+     			 "  D:::::D     D:::::DE:::::E             \r\n" + 
+     			 "  D:::::D    D:::::D E:::::E       EEEEEE\r\n" + 
+     			 "DDD:::::DDDDD:::::DEE::::::EEEEEEEE:::::E\r\n" + 
+     			 "D:::::::::::::::DD E::::::::::::::::::::E\r\n" + 
+     			 "D::::::::::::DDD   E::::::::::::::::::::E\r\n" + 
+     			 "DDDDDDDDDDDDD      EEEEEEEEEEEEEEEEEEEEEE");
+     	Thread.sleep(1000);
+    	 System.out.print(
+    			 "                                                                                                                                                                                                      \r\n" + 
+    			 "                                                                                                                                                                                                      \r\n" + 
+    			 "        CCCCCCCCCCCCC     OOOOOOOOO     NNNNNNNN        NNNNNNNNDDDDDDDDDDDDD             OOOOOOOOO     MMMMMMMM               MMMMMMMMIIIIIIIIIINNNNNNNN        NNNNNNNNIIIIIIIIII     OOOOOOOOO     \r\n" + 
+    			 "     CCC::::::::::::C   OO:::::::::OO   N:::::::N       N::::::ND::::::::::::DDD        OO:::::::::OO   M:::::::M             M:::::::MI::::::::IN:::::::N       N::::::NI::::::::I   OO:::::::::OO   \r\n" + 
+    			 "   CC:::::::::::::::C OO:::::::::::::OO N::::::::N      N::::::ND:::::::::::::::DD    OO:::::::::::::OO M::::::::M           M::::::::MI::::::::IN::::::::N      N::::::NI::::::::I OO:::::::::::::OO \r\n" + 
+    			 "  C:::::CCCCCCCC::::CO:::::::OOO:::::::ON:::::::::N     N::::::NDDD:::::DDDDD:::::D  O:::::::OOO:::::::OM:::::::::M         M:::::::::MII::::::IIN:::::::::N     N::::::NII::::::IIO:::::::OOO:::::::O\r\n" + 
+    			 " C:::::C       CCCCCCO::::::O   O::::::ON::::::::::N    N::::::N  D:::::D    D:::::D O::::::O   O::::::OM::::::::::M       M::::::::::M  I::::I  N::::::::::N    N::::::N  I::::I  O::::::O   O::::::O\r\n" + 
+    			 "C:::::C              O:::::O     O:::::ON:::::::::::N   N::::::N  D:::::D     D:::::DO:::::O     O:::::OM:::::::::::M     M:::::::::::M  I::::I  N:::::::::::N   N::::::N  I::::I  O:::::O     O:::::O\r\n" + 
+    			 "C:::::C              O:::::O     O:::::ON:::::::N::::N  N::::::N  D:::::D     D:::::DO:::::O     O:::::OM:::::::M::::M   M::::M:::::::M  I::::I  N:::::::N::::N  N::::::N  I::::I  O:::::O     O:::::O\r\n" + 
+    			 "C:::::C              O:::::O     O:::::ON::::::N N::::N N::::::N  D:::::D     D:::::DO:::::O     O:::::OM::::::M M::::M M::::M M::::::M  I::::I  N::::::N N::::N N::::::N  I::::I  O:::::O     O:::::O\r\n" + 
+    			 "C:::::C              O:::::O     O:::::ON::::::N  N::::N:::::::N  D:::::D     D:::::DO:::::O     O:::::OM::::::M  M::::M::::M  M::::::M  I::::I  N::::::N  N::::N:::::::N  I::::I  O:::::O     O:::::O\r\n" + 
+    			 "C:::::C              O:::::O     O:::::ON::::::N   N:::::::::::N  D:::::D     D:::::DO:::::O     O:::::OM::::::M   M:::::::M   M::::::M  I::::I  N::::::N   N:::::::::::N  I::::I  O:::::O     O:::::O\r\n" + 
+    			 "C:::::C              O:::::O     O:::::ON::::::N    N::::::::::N  D:::::D     D:::::DO:::::O     O:::::OM::::::M    M:::::M    M::::::M  I::::I  N::::::N    N::::::::::N  I::::I  O:::::O     O:::::O\r\n" + 
+    			 " C:::::C       CCCCCCO::::::O   O::::::ON::::::N     N:::::::::N  D:::::D    D:::::D O::::::O   O::::::OM::::::M     MMMMM     M::::::M  I::::I  N::::::N     N:::::::::N  I::::I  O::::::O   O::::::O\r\n" + 
+    			 "  C:::::CCCCCCCC::::CO:::::::OOO:::::::ON::::::N      N::::::::NDDD:::::DDDDD:::::D  O:::::::OOO:::::::OM::::::M               M::::::MII::::::IIN::::::N      N::::::::NII::::::IIO:::::::OOO:::::::O\r\n" + 
+    			 "   CC:::::::::::::::C OO:::::::::::::OO N::::::N       N:::::::ND:::::::::::::::DD    OO:::::::::::::OO M::::::M               M::::::MI::::::::IN::::::N       N:::::::NI::::::::I OO:::::::::::::OO \r\n" + 
+    			 "     CCC::::::::::::C   OO:::::::::OO   N::::::N        N::::::ND::::::::::::DDD        OO:::::::::OO   M::::::M               M::::::MI::::::::IN::::::N        N::::::NI::::::::I   OO:::::::::OO   \r\n" + 
+    			 "        CCCCCCCCCCCCC     OOOOOOOOO     NNNNNNNN         NNNNNNNDDDDDDDDDDDDD             OOOOOOOOO     MMMMMMMM               MMMMMMMMIIIIIIIIIINNNNNNNN         NNNNNNNIIIIIIIIII     OOOOOOOOO     ");
+    	 Thread.sleep(1000);
+    	 System.out.print(
+    			 "                                                                                                                                                                \r\n" + 
+    			 "                                                                                                                                                                \r\n" + 
+    			 "FFFFFFFFFFFFFFFFFFFFFFEEEEEEEEEEEEEEEEEEEEEEIIIIIIIIIITTTTTTTTTTTTTTTTTTTTTTT     OOOOOOOOO          PPPPPPPPPPPPPPPPP        OOOOOOOOO     RRRRRRRRRRRRRRRRR   \r\n" + 
+    			 "F::::::::::::::::::::FE::::::::::::::::::::EI::::::::IT:::::::::::::::::::::T   OO:::::::::OO        P::::::::::::::::P     OO:::::::::OO   R::::::::::::::::R  \r\n" + 
+    			 "F::::::::::::::::::::FE::::::::::::::::::::EI::::::::IT:::::::::::::::::::::T OO:::::::::::::OO      P::::::PPPPPP:::::P  OO:::::::::::::OO R::::::RRRRRR:::::R \r\n" + 
+    			 "FF::::::FFFFFFFFF::::FEE::::::EEEEEEEEE::::EII::::::IIT:::::TT:::::::TT:::::TO:::::::OOO:::::::O     PP:::::P     P:::::PO:::::::OOO:::::::ORR:::::R     R:::::R\r\n" + 
+    			 "  F:::::F       FFFFFF  E:::::E       EEEEEE  I::::I  TTTTTT  T:::::T  TTTTTTO::::::O   O::::::O       P::::P     P:::::PO::::::O   O::::::O  R::::R     R:::::R\r\n" + 
+    			 "  F:::::F               E:::::E               I::::I          T:::::T        O:::::O     O:::::O       P::::P     P:::::PO:::::O     O:::::O  R::::R     R:::::R\r\n" + 
+    			 "  F::::::FFFFFFFFFF     E::::::EEEEEEEEEE     I::::I          T:::::T        O:::::O     O:::::O       P::::PPPPPP:::::P O:::::O     O:::::O  R::::RRRRRR:::::R \r\n" + 
+    			 "  F:::::::::::::::F     E:::::::::::::::E     I::::I          T:::::T        O:::::O     O:::::O       P:::::::::::::PP  O:::::O     O:::::O  R:::::::::::::RR  \r\n" + 
+    			 "  F:::::::::::::::F     E:::::::::::::::E     I::::I          T:::::T        O:::::O     O:::::O       P::::PPPPPPPPP    O:::::O     O:::::O  R::::RRRRRR:::::R \r\n" + 
+    			 "  F::::::FFFFFFFFFF     E::::::EEEEEEEEEE     I::::I          T:::::T        O:::::O     O:::::O       P::::P            O:::::O     O:::::O  R::::R     R:::::R\r\n" + 
+    			 "  F:::::F               E:::::E               I::::I          T:::::T        O:::::O     O:::::O       P::::P            O:::::O     O:::::O  R::::R     R:::::R\r\n" + 
+    			 "  F:::::F               E:::::E       EEEEEE  I::::I          T:::::T        O::::::O   O::::::O       P::::P            O::::::O   O::::::O  R::::R     R:::::R\r\n" + 
+    			 "FF:::::::FF           EE::::::EEEEEEEE:::::EII::::::II      TT:::::::TT      O:::::::OOO:::::::O     PP::::::PP          O:::::::OOO:::::::ORR:::::R     R:::::R\r\n" + 
+    			 "F::::::::FF           E::::::::::::::::::::EI::::::::I      T:::::::::T       OO:::::::::::::OO      P::::::::P           OO:::::::::::::OO R::::::R     R:::::R\r\n" + 
+    			 "F::::::::FF           E::::::::::::::::::::EI::::::::I      T:::::::::T         OO:::::::::OO        P::::::::P             OO:::::::::OO   R::::::R     R:::::R\r\n" + 
+    			 "FFFFFFFFFFF           EEEEEEEEEEEEEEEEEEEEEEIIIIIIIIII      TTTTTTTTTTT           OOOOOOOOO          PPPPPPPPPP               OOOOOOOOO     RRRRRRRR     RRRRRRR\r\n" + 
+    			 "                                                                                                                                                                \r\n" + 
+    			 "                                                                                                                                                                ");
+    	 Thread.sleep(1000);
+    	 System.out.print(
+    			 "                                                                                                                                                                 \r\n" + 
+    			 "                                                                                                                                                                 \r\n" + 
+    			 "HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEENNNNNNNN        NNNNNNNNRRRRRRRRRRRRRRRRR   IIIIIIIIII     QQQQQQQQQ     UUUUUUUU     UUUUUUUUEEEEEEEEEEEEEEEEEEEEEE\r\n" + 
+    			 "H:::::::H     H:::::::HE::::::::::::::::::::EN:::::::N       N::::::NR::::::::::::::::R  I::::::::I   QQ:::::::::QQ   U::::::U     U::::::UE::::::::::::::::::::E\r\n" + 
+    			 "H:::::::H     H:::::::HE::::::::::::::::::::EN::::::::N      N::::::NR::::::RRRRRR:::::R I::::::::I QQ:::::::::::::QQ U::::::U     U::::::UE::::::::::::::::::::E\r\n" + 
+    			 "HH::::::H     H::::::HHEE::::::EEEEEEEEE::::EN:::::::::N     N::::::NRR:::::R     R:::::RII::::::IIQ:::::::QQQ:::::::QUU:::::U     U:::::UUEE::::::EEEEEEEEE::::E\r\n" + 
+    			 "  H:::::H     H:::::H    E:::::E       EEEEEEN::::::::::N    N::::::N  R::::R     R:::::R  I::::I  Q::::::O   Q::::::Q U:::::U     U:::::U   E:::::E       EEEEEE\r\n" + 
+    			 "  H:::::H     H:::::H    E:::::E             N:::::::::::N   N::::::N  R::::R     R:::::R  I::::I  Q:::::O     Q:::::Q U:::::D     D:::::U   E:::::E             \r\n" + 
+    			 "  H::::::HHHHH::::::H    E::::::EEEEEEEEEE   N:::::::N::::N  N::::::N  R::::RRRRRR:::::R   I::::I  Q:::::O     Q:::::Q U:::::D     D:::::U   E::::::EEEEEEEEEE   \r\n" + 
+    			 "  H:::::::::::::::::H    E:::::::::::::::E   N::::::N N::::N N::::::N  R:::::::::::::RR    I::::I  Q:::::O     Q:::::Q U:::::D     D:::::U   E:::::::::::::::E   \r\n" + 
+    			 "  H:::::::::::::::::H    E:::::::::::::::E   N::::::N  N::::N:::::::N  R::::RRRRRR:::::R   I::::I  Q:::::O     Q:::::Q U:::::D     D:::::U   E:::::::::::::::E   \r\n" + 
+    			 "  H::::::HHHHH::::::H    E::::::EEEEEEEEEE   N::::::N   N:::::::::::N  R::::R     R:::::R  I::::I  Q:::::O     Q:::::Q U:::::D     D:::::U   E::::::EEEEEEEEEE   \r\n" + 
+    			 "  H:::::H     H:::::H    E:::::E             N::::::N    N::::::::::N  R::::R     R:::::R  I::::I  Q:::::O  QQQQ:::::Q U:::::D     D:::::U   E:::::E             \r\n" + 
+    			 "  H:::::H     H:::::H    E:::::E       EEEEEEN::::::N     N:::::::::N  R::::R     R:::::R  I::::I  Q::::::O Q::::::::Q U::::::U   U::::::U   E:::::E       EEEEEE\r\n" + 
+    			 "HH::::::H     H::::::HHEE::::::EEEEEEEE:::::EN::::::N      N::::::::NRR:::::R     R:::::RII::::::IIQ:::::::QQ::::::::Q U:::::::UUU:::::::U EE::::::EEEEEEEE:::::E\r\n" + 
+    			 "H:::::::H     H:::::::HE::::::::::::::::::::EN::::::N       N:::::::NR::::::R     R:::::RI::::::::I QQ::::::::::::::Q   UU:::::::::::::UU  E::::::::::::::::::::E\r\n" + 
+    			 "H:::::::H     H:::::::HE::::::::::::::::::::EN::::::N        N::::::NR::::::R     R:::::RI::::::::I   QQ:::::::::::Q      UU:::::::::UU    E::::::::::::::::::::E\r\n" + 
+    			 "HHHHHHHHH     HHHHHHHHHEEEEEEEEEEEEEEEEEEEEEENNNNNNNN         NNNNNNNRRRRRRRR     RRRRRRRIIIIIIIIII     QQQQQQQQ::::QQ      UUUUUUUUU      EEEEEEEEEEEEEEEEEEEEEE\r\n" + 
+    			 "                                                                                                                Q:::::Q                                          \r\n" + 
+    			 "                                                                                                                 QQQQQQ                                          ");
+    	 Thread.sleep(1000);
+    	 System.out.print(
+    			 "                                                                                                                                               \r\n" + 
+    			 "                                                                                                                                                 \r\n" + 
+    			 "RRRRRRRRRRRRRRRRR                  AAA               FFFFFFFFFFFFFFFFFFFFFF      AAA               EEEEEEEEEEEEEEEEEEEEEELLLLLLLLLLL             \r\n" + 
+    			 "R::::::::::::::::R                A:::A              F::::::::::::::::::::F     A:::A              E::::::::::::::::::::EL:::::::::L             \r\n" + 
+    			 "R::::::RRRRRR:::::R              A:::::A             F::::::::::::::::::::F    A:::::A             E::::::::::::::::::::EL:::::::::L             \r\n" + 
+    			 "RR:::::R     R:::::R            A:::::::A            FF::::::FFFFFFFFF::::F   A:::::::A            EE::::::EEEEEEEEE::::ELL:::::::LL             \r\n" + 
+    			 "  R::::R     R:::::R           A:::::::::A             F:::::F       FFFFFF  A:::::::::A             E:::::E       EEEEEE  L:::::L               \r\n" + 
+    			 "  R::::R     R:::::R          A:::::A:::::A            F:::::F              A:::::A:::::A            E:::::E               L:::::L               \r\n" + 
+    			 "  R::::RRRRRR:::::R          A:::::A A:::::A           F::::::FFFFFFFFFF   A:::::A A:::::A           E::::::EEEEEEEEEE     L:::::L               \r\n" + 
+    			 "  R:::::::::::::RR          A:::::A   A:::::A          F:::::::::::::::F  A:::::A   A:::::A          E:::::::::::::::E     L:::::L               \r\n" + 
+    			 "  R::::RRRRRR:::::R        A:::::A     A:::::A         F:::::::::::::::F A:::::A     A:::::A         E:::::::::::::::E     L:::::L               \r\n" + 
+    			 "  R::::R     R:::::R      A:::::AAAAAAAAA:::::A        F::::::FFFFFFFFFFA:::::AAAAAAAAA:::::A        E::::::EEEEEEEEEE     L:::::L               \r\n" + 
+    			 "  R::::R     R:::::R     A:::::::::::::::::::::A       F:::::F         A:::::::::::::::::::::A       E:::::E               L:::::L               \r\n" + 
+    			 "  R::::R     R:::::R    A:::::AAAAAAAAAAAAA:::::A      F:::::F        A:::::AAAAAAAAAAAAA:::::A      E:::::E       EEEEEE  L:::::L         LLLLLL\r\n" + 
+    			 "RR:::::R     R:::::R   A:::::A             A:::::A   FF:::::::FF     A:::::A             A:::::A   EE::::::EEEEEEEE:::::ELL:::::::LLLLLLLLL:::::L\r\n" + 
+    			 "R::::::R     R:::::R  A:::::A               A:::::A  F::::::::FF    A:::::A               A:::::A  E::::::::::::::::::::EL::::::::::::::::::::::L\r\n" + 
+    			 "R::::::R     R:::::R A:::::A                 A:::::A F::::::::FF   A:::::A                 A:::::A E::::::::::::::::::::EL::::::::::::::::::::::L\r\n" + 
+    			 "RRRRRRRR     RRRRRRRAAAAAAA                   AAAAAAAFFFFFFFFFFF  AAAAAAA                   AAAAAAAEEEEEEEEEEEEEEEEEEEEEELLLLLLLLLLLLLLLLLLLLLLLL\r\n" + 
+    			 "                                                                                                                                                 ");
+    	 Thread.sleep(1000);
+    	 System.out.print(
+    			 "                                                                                                                                                \r\n" + 
+    			 "                                                                                                                                                \r\n" + 
+    			 "RRRRRRRRRRRRRRRRR        OOOOOOOOO     DDDDDDDDDDDDD             OOOOOOOOO     LLLLLLLLLLL             FFFFFFFFFFFFFFFFFFFFFF     OOOOOOOOO     \r\n" + 
+    			 "R::::::::::::::::R     OO:::::::::OO   D::::::::::::DDD        OO:::::::::OO   L:::::::::L             F::::::::::::::::::::F   OO:::::::::OO   \r\n" + 
+    			 "R::::::RRRRRR:::::R  OO:::::::::::::OO D:::::::::::::::DD    OO:::::::::::::OO L:::::::::L             F::::::::::::::::::::F OO:::::::::::::OO \r\n" + 
+    			 "RR:::::R     R:::::RO:::::::OOO:::::::ODDD:::::DDDDD:::::D  O:::::::OOO:::::::OLL:::::::LL             FF::::::FFFFFFFFF::::FO:::::::OOO:::::::O\r\n" + 
+    			 "  R::::R     R:::::RO::::::O   O::::::O  D:::::D    D:::::D O::::::O   O::::::O  L:::::L                 F:::::F       FFFFFFO::::::O   O::::::O\r\n" + 
+    			 "  R::::R     R:::::RO:::::O     O:::::O  D:::::D     D:::::DO:::::O     O:::::O  L:::::L                 F:::::F             O:::::O     O:::::O\r\n" + 
+    			 "  R::::RRRRRR:::::R O:::::O     O:::::O  D:::::D     D:::::DO:::::O     O:::::O  L:::::L                 F::::::FFFFFFFFFF   O:::::O     O:::::O\r\n" + 
+    			 "  R:::::::::::::RR  O:::::O     O:::::O  D:::::D     D:::::DO:::::O     O:::::O  L:::::L                 F:::::::::::::::F   O:::::O     O:::::O\r\n" + 
+    			 "  R::::RRRRRR:::::R O:::::O     O:::::O  D:::::D     D:::::DO:::::O     O:::::O  L:::::L                 F:::::::::::::::F   O:::::O     O:::::O\r\n" + 
+    			 "  R::::R     R:::::RO:::::O     O:::::O  D:::::D     D:::::DO:::::O     O:::::O  L:::::L                 F::::::FFFFFFFFFF   O:::::O     O:::::O\r\n" + 
+    			 "  R::::R     R:::::RO:::::O     O:::::O  D:::::D     D:::::DO:::::O     O:::::O  L:::::L                 F:::::F             O:::::O     O:::::O\r\n" + 
+    			 "  R::::R     R:::::RO::::::O   O::::::O  D:::::D    D:::::D O::::::O   O::::::O  L:::::L         LLLLLL  F:::::F             O::::::O   O::::::O\r\n" + 
+    			 "RR:::::R     R:::::RO:::::::OOO:::::::ODDD:::::DDDDD:::::D  O:::::::OOO:::::::OLL:::::::LLLLLLLLL:::::LFF:::::::FF           O:::::::OOO:::::::O\r\n" + 
+    			 "R::::::R     R:::::R OO:::::::::::::OO D:::::::::::::::DD    OO:::::::::::::OO L::::::::::::::::::::::LF::::::::FF            OO:::::::::::::OO \r\n" + 
+    			 "R::::::R     R:::::R   OO:::::::::OO   D::::::::::::DDD        OO:::::::::OO   L::::::::::::::::::::::LF::::::::FF              OO:::::::::OO   \r\n" + 
+    			 "RRRRRRRR     RRRRRRR     OOOOOOOOO     DDDDDDDDDDDDD             OOOOOOOOO     LLLLLLLLLLLLLLLLLLLLLLLLFFFFFFFFFFF                OOOOOOOOO     \r\n" + 
+    			 "                                                                                                                                                \r\n" + 
+    			 "                                                                                                                                                \r\n" + 
+    			 "                                                                                                                                                \r\n" + 
+    			 "                                                                                                                                                ");
+    	 Thread.sleep(1000);
+    	 for (int i = 0; i < 30; i++) {
+             System.out.println();
+         }
+    	}catch(Exception e) {
+    		
+    	}
+    	
+    	
         Scanner sc = new Scanner(System.in);
         while (menuPrincipal(sc)) {
         }
@@ -38,7 +201,7 @@ public class Main {
 " ICareICareICareICareICareICareICareICareICareICareICareICareICareICar\n" +
 "  ICareICareICareICareICareICareICareICareICareICareICareICareICareIc\n" +
 "   eICareICareICareICareICareICareICareICareICareICareICareICareICa\n" +
-"    ICareICareICareICareICareICareICareICareICareICareICareICareI\n" +
+"    ICareICareICareICareICareICaFrankJoyICareICareICareICareICareI\n" +
 "      reICareICareICareICareICareICareICareICareICareICareICare\n" +
 "        ICareICareICareICareICareICareICareICareICareICareICa\n" +
 "          reICareICareICareICareICareICareICareICareICareIc\n" +
@@ -53,7 +216,7 @@ public class Main {
 "                               CareICar\n" +
 "                                 reIC\n" +
 "                                  eI");
-        for (int i = 0; i < 30; i++) {
+        for (int i = 0; i < 50; i++) {
             System.out.println();
         }
         System.out.print(
@@ -135,13 +298,13 @@ public class Main {
             Condominio condominio = new Condominio(nome, cidade, bairro, numero, new ArrayList<Edificio>());
             AcessaBanco bd = AcessaBanco.getAcesso();
             bd.addCondominio(condominio);
-            System.out.println("Condomínio criado");
+            System.out.println("condomínio criado");
             String op = null;
             while (op == null || (op.length() > 0 && (op.charAt(0) == 'S' || op.charAt(0) == 's'))) {
                 System.out.println();
                 System.out.println("Adicionar edifício ao condomínio?");
                 System.out.println("S - Sim");
-                System.out.println("N - Não");
+                System.out.println("N - não");
                 op = sc.nextLine();
                 if (op.charAt(0) == 'S' || op.charAt(0) == 's') {
                     cadastroEdificio(sc, bd.getCondominios().size() - 1);
@@ -158,7 +321,7 @@ public class Main {
             return;
         }
         AcessaBanco.getAcesso().getCondominios().forEach(c -> {
-            System.out.println("Condomínio " + c.getNome());
+            System.out.println("condomínio " + c.getNome());
             System.out.println("Localizado em: " + c.getCidade() + " - " + c.getBairro() + ", " + c.getNumero());
         });
     }
@@ -183,7 +346,7 @@ public class Main {
                 System.out.println();
                 System.out.println("Adicionar novo apartamento ao edifício?");
                 System.out.println("S - Sim");
-                System.out.println("N - Não");
+                System.out.println("N - não");
                 op = sc.nextLine();
                 if (op.charAt(0) == 'S' || op.charAt(0) == 's') {
                     cadastroApartamento(sc, indexCondominio, bd.getCondominios()
@@ -201,7 +364,7 @@ public class Main {
             sc.reset();
             System.out.println("Tipo:");
             System.out.println("L - Luxo");
-            System.out.println("P - Padrão");
+            System.out.println("P - PadrÃ£o");
             String op = sc.nextLine();
             if (op.charAt(0) == 'L' || op.charAt(0) == 'l') {
                 cadastroApartamentoLuxo(sc, indexCondominio, indexEdificio);
@@ -225,10 +388,10 @@ public class Main {
             double rendaMedia = Double.parseDouble(sc.nextLine());
             System.out.println("Informe o tipo de luminária:");
             String tipoLuminaria = sc.nextLine();
-            System.out.println("Possui geladeira embutida? (S - Sim | N - Não)");
+            System.out.println("Possui geladeira embutida? (S - Sim | N - não)");
             l = sc.nextLine();
             boolean geladeiraEmbutida = !l.isEmpty() && (l.charAt(0) == 'S' || l.charAt(0) == 's');
-            System.out.println("Possui fogão embutido? (S - Sim | N - Não)");
+            System.out.println("Possui fogão embutido? (S - Sim | N - não)");
             l = sc.nextLine();
             boolean fogaoEmbutido = !l.isEmpty() && (l.charAt(0) == 'S' || l.charAt(0) == 's');
             ConstructorApartamentoLuxo cA = new ConstructorApartamentoLuxo();
@@ -246,7 +409,7 @@ public class Main {
                 System.out.println();
                 System.out.println("Adicionar novo morador ao apartamento?");
                 System.out.println("S - Sim");
-                System.out.println("N - Não");
+                System.out.println("N - não");
                 op = sc.nextLine();
                 if (op.charAt(0) == 'S' || op.charAt(0) == 's') {
                     cadastroMorador(sc, indexCondominio, indexEdificio,
@@ -270,7 +433,7 @@ public class Main {
             int numero = Integer.parseInt(sc.nextLine());
             System.out.println("Informe o andar:");
             int andar = Integer.parseInt(sc.nextLine());
-            System.out.println("Informe o tipo de armário:");
+            System.out.println("Informe o tipo de armÃ¡rio:");
             String tipoArmario = sc.nextLine();
             System.out.println("Informe o tipo de piso:");
             String tipoPiso = sc.nextLine();
@@ -288,7 +451,7 @@ public class Main {
                 System.out.println();
                 System.out.println("Adicionar novo morador ao apartamento?");
                 System.out.println("S - Sim");
-                System.out.println("N - Não");
+                System.out.println("N - não");
                 op = sc.nextLine();
                 if (op.charAt(0) == 'S' || op.charAt(0) == 's') {
                     cadastroMorador(sc, indexCondominio, indexEdificio,
@@ -339,7 +502,7 @@ public class Main {
         }
         int i = 1;
         for (Condominio c : AcessaBanco.getAcesso().getCondominios()) {
-            System.out.println(i + ": Condomínio " + c.getNome());
+            System.out.println(i + ": condomínio " + c.getNome());
             i++;
         }
         System.out.println("Selecione algum condomínio: (informe seu número identificador)");
@@ -355,7 +518,9 @@ public class Main {
                     cadastroCondominio(sc, indexCondominio);
                     break;
                 case 3:
-                    AcessaBanco.getAcesso().getCondominios().remove(indexCondominio);
+                	ArrayList<Condominio> condominios = AcessaBanco.getAcesso().getCondominios();
+                	condominios.remove(indexCondominio);
+                	AcessaBanco.getAcesso().salvarCondominios(condominios);
             }
         } catch (Exception e) {
             showOpInvalida();
@@ -367,28 +532,28 @@ public class Main {
             Condominio c = AcessaBanco.getAcesso()
                     .getCondominios()
                     .get(indexCondominio);
-            System.out.println("Condomínio " + c.getNome());
+            System.out.println("condomínio " + c.getNome());
             System.out.println("Localizado em: " + c.getCidade() + " - " + c.getBairro() + ", " + c.getNumero());
             System.out.println("Possui " + c.getEdificios().size() + " edifícios");
             c.getEdificios().forEach(e -> {
                 System.out.println();
-                System.out.println("Edifício de Número " + e.getNumeroEdificio());
+                System.out.println("Edifício de número " + e.getNumeroEdificio());
                 System.out.println("Cor " + e.getCor() + ", " + e.getQuantidadeAndares() + " andares, " + e.getApartamentos().size() + " apartamentos.");
                 if (!e.getApartamentos().isEmpty()) {
                     System.out.println("Apartamentos:");
                     e.getApartamentos().forEach(a -> {
                         if (a instanceof ApartamentoLuxo) {
-                            System.out.println("\tNúmero: " + a.getNumeroApto()
+                            System.out.println("\tnúmero: " + a.getNumeroApto()
                                     + ", Andar: " + a.getAndar()
-                                    + ", Renda Média: " + String.format("%.2f", a.getRendaMedia())
-                                    + ", Tipo de Luminária: " + ((ApartamentoLuxo) a).getTipoLuminaria()
-                                    + ", Possui geladeira embutida: " + (((ApartamentoLuxo) a).isGeladeiraEmbutida() ? "Sim" : "Não")
-                                    + ", Possui fogão embutido: " + (((ApartamentoLuxo) a).isFogaoEmbutido() ? "Sim" : "Não"));
+                                    + ", Renda média: " + String.format("%.2f", a.getRendaMedia())
+                                    + ", Tipo de luminária: " + ((ApartamentoLuxo) a).getTipoLuminaria()
+                                    + ", Possui geladeira embutida: " + (((ApartamentoLuxo) a).isGeladeiraEmbutida() ? "Sim" : "não")
+                                    + ", Possui fogão embutido: " + (((ApartamentoLuxo) a).isFogaoEmbutido() ? "Sim" : "não"));
                         } else if (a instanceof ApartamentoPadrao) {
-                            System.out.println("\t Número: " + a.getNumeroApto()
+                            System.out.println("\t número: " + a.getNumeroApto()
                                     + ", Andar: " + a.getAndar()
-                                    + ", Renda Média: " + String.format("%.2f", a.getRendaMedia())
-                                    + ", Tipo de Armário: " + ((ApartamentoPadrao) a).getTipoArmario()
+                                    + ", Renda média: " + String.format("%.2f", a.getRendaMedia())
+                                    + ", Tipo de ArmÃ¡rio: " + ((ApartamentoPadrao) a).getTipoArmario()
                                     + ", Tipo de Piso: " + ((ApartamentoPadrao) a).getTipoPiso());
                         }
                         if (!a.getMoradores().isEmpty()) {
@@ -405,7 +570,7 @@ public class Main {
                 }
             });
         } catch (Exception e) {
-            System.out.println("Condomínio não localizado!");
+            System.out.println("condomínio não localizado!");
         }
     }
 
@@ -433,7 +598,7 @@ public class Main {
                 c.setCidade(cidade);
                 c.setBairro(bairro);
                 c.setNumero(numero);
-                System.out.println("Condomínio atualizado com sucesso");
+                System.out.println("condomínio atualizado com sucesso");
             } else if (op == 2 || op == 4) {
                 AcessaBanco bd = AcessaBanco.getAcesso();
                 Condominio c = bd.getCondominios().get(indexCondominio);
@@ -443,7 +608,7 @@ public class Main {
                 }
                 int indexEdificio = 1;
                 for (Edificio e : c.getEdificios()) {
-                    System.out.println(indexEdificio + " - Edifício de Número " + e.getNumeroEdificio());
+                    System.out.println(indexEdificio + " - Edifício de número " + e.getNumeroEdificio());
                     indexEdificio++;
                 }
                 System.out.println("Selecione o edifício: (Informe o identificador)");
@@ -492,7 +657,7 @@ public class Main {
                 }
                 int indexApartamento = 1;
                 for (Apartamento a : e.getApartamentos()) {
-                    System.out.println(indexApartamento + " - Apartamento de Número " + a.getNumeroApto());
+                    System.out.println(indexApartamento + " - Apartamento de número " + a.getNumeroApto());
                     indexApartamento++;
                 }
                 System.out.println("Selecione o aparamento: (Informe o identificador)");
@@ -522,7 +687,7 @@ public class Main {
             if (op == 1) {
                 System.out.println("Tipo:");
                 System.out.println("L - Luxo");
-                System.out.println("P - Padrão");
+                System.out.println("P - PadrÃ£o");
                 String o = sc.nextLine();
                 if (o.charAt(0) == 'L' || o.charAt(0) == 'l') {
                     String l = "";
@@ -534,10 +699,10 @@ public class Main {
                     double rendaMedia = Double.parseDouble(sc.nextLine());
                     System.out.println("Informe o tipo de luminária:");
                     String tipoLuminaria = sc.nextLine();
-                    System.out.println("Possui geladeira embutida? (S - Sim | N - Não)");
+                    System.out.println("Possui geladeira embutida? (S - Sim | N - não)");
                     l = sc.nextLine();
                     boolean geladeiraEmbutida = !l.isEmpty() && (l.charAt(0) == 'S' || l.charAt(0) == 's');
-                    System.out.println("Possui fogão embutido? (S - Sim | N - Não)");
+                    System.out.println("Possui fogão embutido? (S - Sim | N - não)");
                     l = sc.nextLine();
                     boolean fogaoEmbutido = !l.isEmpty() && (l.charAt(0) == 'S' || l.charAt(0) == 's');
                     ConstructorApartamentoLuxo cA = new ConstructorApartamentoLuxo();
@@ -560,7 +725,7 @@ public class Main {
                     int numero = Integer.parseInt(sc.nextLine());
                     System.out.println("Informe o andar:");
                     int andar = Integer.parseInt(sc.nextLine());
-                    System.out.println("Informe o tipo de armário:");
+                    System.out.println("Informe o tipo de armÃ¡rio:");
                     String tipoArmario = sc.nextLine();
                     System.out.println("Informe o tipo de piso:");
                     String tipoPiso = sc.nextLine();
